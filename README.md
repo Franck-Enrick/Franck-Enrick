@@ -50,12 +50,12 @@ Je souhaite rejoindre une équipe où je peux contribuer à des sujets comme :
 
 ## Expériences Professionnelles
 
-### KIAMA S.A – Stagiaire développeur logiciel *(2024 – 2 mois)*
+### KIAMA S.A – Stagiaire développeur Web *(2024)*
 Conception et développement d'un **module de génération de données statistiques en format PDF**.  
 Développement **front-end** avec HTML5 et CSS3, implémentation **back-end** en PHP avec le framework **Symfony** sur WampServer.  
 Participation aux réunions de suivi et rédaction de **documentation technique**.
 
-### CAYSTI – Formation volontaire en développement logiciel *(2021 – 2 mois)*
+### CAYSTI – Formation volontaire en développement logiciel *(2021)*
 Développement d'une **application Python de conjugaison automatique** couvrant les temps simples.  
 Conception de l'interface utilisateur avec **TKinter** et implémentation d'un moteur de conjugaison avec la bibliothèque `re`.
 
