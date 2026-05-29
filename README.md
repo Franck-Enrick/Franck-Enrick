@@ -17,7 +17,7 @@
 
 ## À propos de moi
 
-Étudiant en 1ère année de cycle ingénieur à **l'EPF Paris-Cachan**, en spécialisation **Systèmes Numériques Intelligents**, je recherche une **alternance de 24 mois à partir de septembre 2026** en **automatisation des tests** ou **développement logiciel / IT**.
+Étudiant en 1ère année de cycle ingénieur à **l'EPF Paris-Cachan**, en spécialisation **Systèmes Numériques Intelligents**, je recherche une **alternance de 24 mois à partir de septembre 2026** en **développement Web/logiciel** ou **automatisation des tests**.
 
 J'aime travailler sur des projets concrets où la technologie permet de :
 - **automatiser des processus** et améliorer la qualité logicielle
@@ -39,9 +39,9 @@ Au fil de mes expériences et projets académiques, j'ai développé des compét
 
 Je souhaite rejoindre une équipe où je peux contribuer à des sujets comme :
 
-- **Automatisation des tests post-déploiement**
+- **Développement Web**
 - **Intégration CI/CD et amélioration continue de la qualité logicielle**
-- **Développement logiciel full-stack**
+- **Automatisation des tests post-déploiement**
 - **Conception et développement de modules back-end et front-end**
 - **Gestion de bases de données et modélisation**
 - **Gestion de projet agile et documentation technique**
@@ -142,7 +142,7 @@ Modélisation des données (**MCD/MLD**) et structuration du système d'informat
 - **Email** : franck-enrick.ngassam@epfedu.fr
 - **Téléphone** : +33 7 68 69 72 07
 - **LinkedIn** : [Franck-Enrick NGASSAM](https://linkedin.com/in/franck-enrick-ngassam)
-- **Mobilité** : Île-de-France
+- **Mobilité** : Mobile dans toute la France
 - **Permis** : B
 
 ---
