@@ -1,7 +1,7 @@
 ## Bonjour, moi c'est Franck-Enrick NGASSAM
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=950&lines=Étudiant+Ingénieur+%7C+EPF+Paris-Cachan;Python+%7C+PHP+%7C+SQL+%7C+Java+%7C+HTML%2FCSS;Automatisation+des+tests+%7C+Développement+logiciel;Systèmes+Numériques+Intelligents+%7C+CI%2FCD+%7C+Agile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=950&lines=Étudiant+Ingénieur+%7C+EPF+Paris-Cachan;Python+%7C+PHP+%7C+SQL+%7C+Java+%7C+HTML%2FCSS;Automatisation+des+tests+%7C+Développement+logiciel;DATA+et+IA+%7C+CI%2FCD+%7C+Agile" alt="Typing SVG" />
 </div>
 
 <p align="center">
