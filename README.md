@@ -17,7 +17,7 @@
 
 ## À propos de moi
 
-Étudiant en 1ère année de cycle ingénieur à **l'EPF Paris-Cachan**, en spécialisation **Systèmes Numériques Intelligents**, je recherche une **alternance de 24 mois à partir de septembre 2026** en **développement Full-Stack** ou **automatisation des tests**.
+Étudiant en 1ère année de cycle ingénieur à **l'EPF **, en spécialisation **Data & IA**, je recherche une **alternance de 24 mois à partir de septembre 2026** en **Data** et/ou **intelligence artificielle**.
 
 J'aime travailler sur des projets concrets où la technologie permet de :
 - **automatiser des processus** et améliorer la qualité logicielle
