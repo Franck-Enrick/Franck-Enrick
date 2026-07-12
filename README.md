@@ -28,6 +28,7 @@ J'aime travailler sur des projets concrets où la technologie permet de :
 
 Au fil de mes expériences et projets académiques, j'ai développé des compétences en :
 - **développement full-stack** (Python, PHP/Symfony, HTML/CSS, JavaScript)
+- **Data & IA** 
 - **bases de données relationnelles** (SQL, MySQL, modélisation MCD/MLD)
 - **automatisation et scripting** (Python, VBA)
 - **gestion de projet agile** et rédaction de documentation technique
